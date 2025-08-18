@@ -1,2 +1,5 @@
 .env.example
+.env
 /data
+.venv/*
+src/__pycache__/*
